@@ -12,7 +12,7 @@ Overall, this project enhanced practical skills in data cleaning, modelling, ana
 # WHOLE DASHBOARD SNAPSHOTS
 <img width="901" height="522" alt="image" src="https://github.com/user-attachments/assets/2aa17294-63f2-4577-afeb-3f45456348cf" />
 
-Front Page
+## Front Page
 
 <img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/6b7e46e4-0b12-463d-a7ed-42aebcae3a75" />
 Overview Page
