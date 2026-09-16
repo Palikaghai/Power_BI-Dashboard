@@ -10,15 +10,15 @@ Overall, this project enhanced practical skills in data cleaning, modelling, ana
 * It serves as a strong example of how modern BI tools can simplify complex datasets and communicate insights effectively to diverse audiences.
 
 # WHOLE DASHBOARD SNAPSHOTS
+Front Page
 <img width="901" height="522" alt="image" src="https://github.com/user-attachments/assets/2aa17294-63f2-4577-afeb-3f45456348cf" />
 
-## Front Page
-
-<img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/6b7e46e4-0b12-463d-a7ed-42aebcae3a75" />
 Overview Page
+<img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/6b7e46e4-0b12-463d-a7ed-42aebcae3a75" />
 
-<img width="940" height="524" alt="image" src="https://github.com/user-attachments/assets/e734a55b-394d-4a14-81f1-41da64302c0e" />
 Planet Details Page ( with a slicer working)
+<img width="940" height="524" alt="image" src="https://github.com/user-attachments/assets/e734a55b-394d-4a14-81f1-41da64302c0e" />
 
-<img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/8021359c-84c0-45e9-87db-cef63ed81b36" />
 AI Insights
+<img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/8021359c-84c0-45e9-87db-cef63ed81b36" />
+
