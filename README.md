@@ -1,4 +1,4 @@
-## ABOUT THE PROJECT
+## ABOUT THE DASHBOARD
 * The “Exoplanets of the Universe” project successfully demonstrates the application of data analytics and visualization techniques to a complex, real-world astronomical dataset. By utilizing data from the NASA Exoplanet Archive, the project transforms raw scientific data into meaningful insights through interactive and visually engaging Power BI dashboards.
 Throughout the analysis, key trends in exoplanet discoveries were identified, highlighting a significant increase in confirmed planets over recent years. 
 * This growth reflects the impact of advanced space missions and improved detection technologies. The comparative study of discovery methods revealed that techniques such as Transit and Radial Velocity dominate current discoveries, while methods like Imaging provide deeper observational detail despite fewer detections.
