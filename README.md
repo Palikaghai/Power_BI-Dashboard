@@ -10,9 +10,9 @@ Overall, this project enhanced practical skills in data cleaning, modelling, ana
 * It serves as a strong example of how modern BI tools can simplify complex datasets and communicate insights effectively to diverse audiences.
 
 # WHOLE DASHBOARD SNAPSHOTS
-Front Page
+* Front Page
 <img width="620" height="400" alt="image" src="https://github.com/user-attachments/assets/2aa17294-63f2-4577-afeb-3f45456348cf" />
------------------------------------------------------------------------------------------------------------------------------------
+
 Overview Page
 <img width="640" height="410" alt="image" src="https://github.com/user-attachments/assets/6b7e46e4-0b12-463d-a7ed-42aebcae3a75" />
 
