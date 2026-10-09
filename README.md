@@ -13,13 +13,12 @@ Overall, this project enhanced practical skills in data cleaning, modelling, ana
 * Front Page
 <img width="620" height="400" alt="image" src="https://github.com/user-attachments/assets/2aa17294-63f2-4577-afeb-3f45456348cf" />
 
-Overview Page
+* Overview Page
 <img width="640" height="410" alt="image" src="https://github.com/user-attachments/assets/6b7e46e4-0b12-463d-a7ed-42aebcae3a75" />
 
-
-Planet Details Page ( with a slicer working)
+* Planet Details Page ( with a slicer working)
 <img width="640" height="410" alt="image" src="https://github.com/user-attachments/assets/e734a55b-394d-4a14-81f1-41da64302c0e" />
 
-AI Insights
+* AI Insights
 <img width="620" height="410" alt="image" src="https://github.com/user-attachments/assets/8021359c-84c0-45e9-87db-cef63ed81b36" />
 
